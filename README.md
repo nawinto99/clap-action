@@ -14,6 +14,13 @@ Clap Action requires Python to run.
 poetry new clap-action
 ```
 
+## Test
+
+```sh
+poetry run pytest
+```
+
+
 ## License
 
 MIT
