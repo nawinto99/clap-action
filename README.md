@@ -13,10 +13,18 @@ Clap Action requires Python to run.
 ```sh
 poetry new clap-action
 ```
+## Install
+
+```sh
+cd clap-action 
+poetry install
+```
+
 
 ## Test
 
 ```sh
+cd clap-action 
 poetry run pytest
 ```
 
