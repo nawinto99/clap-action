@@ -1,2 +1,2 @@
-# clap-action
+# Clap-Action
 GitHub Actions Workshop
